@@ -24,13 +24,3 @@ It’s designed to demonstrate how to deploy a static site and connect it to Goo
 
 ---
 
-## Getting Started
-
-```bash
-# 1. Clone this repository
-git clone https://github.com/your-username/traveler-demo.git
-cd traveler-demo
-
-# 2. Open index.html in your browser
-#    (or use a Live Server extension in VSCode for auto-reload)
-
